@@ -14,7 +14,6 @@ permalink: /
 
 - **공식 쇼핑몰:** [imagetogoods.com](https://imagetogoods.com)
 - **블로그 홈:** [blog.imagetogoods.com](https://blog.imagetogoods.com)
-- **GitHub 저장소:** [manakin9090.github.io](https://github.com/manakin9090/manakin9090.github.io)
 
 ---
 
