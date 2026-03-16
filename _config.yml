@@ -1,3 +1,32 @@
-title: ImX6 공식 블로그
-author: KIM MINJU
-description: AI 3D 굿즈 및 주얼리 제작
+title: "ImX6 공식 블로그"
+author: "KIM MINJU"
+description: "AI 3D 굿즈 및 주얼리 제작 매거진"
+
+# 블로그 주소 설정 (중요!)
+url: "https://blog.imagetogoods.com"
+baseurl: ""
+
+# 테마 설정 (이 코드가 있어야 디자인이 입혀집니다)
+remote_theme: sighingnow/jekyll-gitbook
+
+# 플러그인 설정
+plugins:
+  - jekyll-remote-theme
+  - jekyll-toc
+  - jekyll-seo-tag
+
+# 목차(TOC) 설정
+toc:
+  enabled: true
+  h_min: 1
+  h_max: 3
+
+# 구글 검색 등에 노출되기 위한 설정
+twitter:
+  username: 
+  status: 
+
+# Markdown 설정
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
