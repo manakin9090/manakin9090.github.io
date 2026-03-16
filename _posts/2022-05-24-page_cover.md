@@ -1,22 +1,29 @@
 ---
-title: Page with cover image
-author: Tao He
-date: 2022-05-24
-category: Jekyll
+title: "ImX6의 마스코트, 귀여운 '임미(Immi)'를 소개합니다!"
+author: KIM MINJU
+date: 2026-03-17
+category: Brand Story
 layout: post
-cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
+cover: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
 ---
 
-The jekyll-gitbook theme supports adding a cover image to a specific page by adding
-a `cover` field to the page metadata:
+ImX6의 공식 마스코트이자 창의적인 영감의 원천, **'임미(Immi)'**를 소개합니다! 🎉
 
-```diff
-  ---
-  title: Page with cover image
-  author: Tao He
-  date: 2022-05-24
-  category: Jekyll
-  layout: post
-+ cover: /assets/jekyll-gitbook/dinosaur.gif
-  ---
-```
+## 임미(Immi)의 탄생 스토리
+AI 기술과 3D 굿즈 출력, 그리고 14K 주얼리 세공이라는 다소 차갑고 복잡해 보일 수 있는 제조 과정에 따뜻한 감성과 친근함을 불어넣기 위해 임미가 탄생했습니다. (언젠가 귀여운 카카오 이모티콘으로도 여러분을 찾아가기 위해 열심히 준비 중이랍니다!)
+
+## 임미가 하는 일
+임미는 ImX6의 다양한 활동에서 여러분과 만날 예정입니다.
+
+* **3D 굿즈 모델:** 때로는 귀여운 입체 키링으로, 때로는 책상 위를 지키는 피규어로 변신해 직접 굿즈의 모델이 됩니다.
+* **제작 가이드:** 블로그와 공식 홈페이지 곳곳에서 아이디어가 실제 상품으로 만들어지는 과정을 친절하게 안내해 줍니다.
+* **브랜드 앰버서더:** ImX6가 세상에 전하고자 하는 '상상을 현실로 만드는 마법' 같은 메시지를 전달합니다.
+
+## 커버 이미지 기능 활용하기
+
+이 글의 상단을 장식하고 있는 큼직한 배경 이미지가 보이시나요? 
+
+> ##### 💡 커버 이미지 교체 팁
+> 
+> 글을 작성하실 때 맨 위 설정 부분에 `cover: [이미지 주소]`를 입력하시면 이렇게 글 상단에 멋진 대문 이미지를 걸어둘 수 있습니다. 
+> 지금은 임시 3D 그래픽 이미지가 들어있지만, 나중에 임미의 멋진 일러스트나 3D 렌
