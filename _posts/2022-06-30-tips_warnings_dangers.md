@@ -1,67 +1,35 @@
 ---
-title: Tips, Warnings, and Dangers
-author: Tao He
-date: 2022-06-30
-category: Jekyll
+title: "ImX6 상품 취급 및 주문 유의사항 (Care & Order Guide)"
+author: KIM MINJU
+date: 2026-03-17
+category: Notice
 layout: post
 ---
 
-This jekyll-theme supports tips, warnings, and dangers blocks and the style is referred
-from [the discord.js website][1].
+ImX6의 AI 커스텀 3D 굿즈와 14K 주얼리를 찾아주셔서 감사합니다. 
+세상에 단 하나뿐인 소중한 제품을 오래도록 아름답게 간직하기 위해, 아래의 취급 주의사항과 주문 안내를 꼭 확인해 주세요!
 
-You could have the following [markdown attributes (supported by kramdown)][2]:
+### 💎 14K 주얼리 보관 팁 (Tip)
 
-### Tips
-
-Using a `{: .block-tip}` attribute:
-
-```markdown
-> ##### TIP
+> ##### 💡 TIP: 주얼리 광택 오래 유지하기
 >
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
-{: .block-tip }
-```
-
-> ##### TIP
->
-> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
-> this or a similar version after installation.
+> 착용 후에는 부드러운 천이나 전용 폴리싱 천으로 가볍게 닦아 땀과 화장품 등의 이물질을 제거해 주세요. 착용하지 않으실 때는 공기가 통하지 않는 지퍼백이나 보석함에 밀봉하여 보관하시면 처음의 반짝임을 훨씬 오래 유지할 수 있습니다.
 {: .block-tip }
 
-### Warnings
+### ⏳ 맞춤 제작 주문 유의사항 (Warning)
 
-Using a `{: .block-warning}` attribute:
-
-```markdown
-> ##### WARNING
+> ##### ⚠️ WARNING: 1:1 오더메이드 특성 안내
 >
-> Be sure that you're familiar with things like async/await and object destructuring
-> before continuing, as we'll be making use of features like these.
-{: .block-warning }
-```
-
-> ##### WARNING
->
-> Be sure that you're familiar with things like async/await and object destructuring
-> before continuing, as we'll be making use of features like these.
+> ImX6의 모든 상품은 고객님의 주문과 동시에 AI 디자인 및 개별 제작이 들어가는 1:1 맞춤형(On-demand) 시스템입니다. 따라서 **결제가 완료되고 도면이 확정되어 제작이 시작된 이후에는 단순 변심으로 인한 주문 취소, 교환 및 환불이 불가능**합니다. 시안 확인 시 꼼꼼한 검토를 부탁드립니다.
 {: .block-warning }
 
-### Dangers
+### 🔥 3D 굿즈 취급 주의사항 (Danger)
 
-Using a `{: .block-danger}` attribute:
-
-```markdown
-> ##### DANGER
+> ##### 🚫 DANGER: 고온 노출 및 강한 충격 주의
 >
-> You cannot delete an ephemeral message.
-{: .block-danger }
-```
-
-> ##### DANGER
->
-> You cannot delete an ephemeral message.
+> 레진 및 PLA 소재로 제작된 3D 굿즈는 열에 약한 특성이 있습니다. **여름철 차량 내부, 난방기기 근처 등 직사광선과 고온(60℃ 이상)에 장시간 노출될 경우 심각한 형태 변형이나 녹아내림이 발생**할 수 있으니 절대 주의해 주세요. 또한 강한 충격이나 낙하 시 파손될 위험이 있습니다.
 {: .block-danger }
 
-[1]: https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas
-[2]: https://kramdown.gettalong.org/quickref.html#block-attributes
+---
+
+그 외 상품의 불량이나 배송 중 파손이 발생한 경우, 수령 후 3일 이내에 공식 쇼핑몰([imagetogoods.com](https://imagetogoods.com)) 고객센터로 사진과 함께 연락해 주시면 빠르게 처리해 드리겠습니다.
