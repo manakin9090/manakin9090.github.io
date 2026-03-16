@@ -1,9 +1,28 @@
 ---
-title: About others
-author: Tao He
-date: 2022-02-04
-category: Jekyll
+title: "ImX6의 철학과 비전 (Vision)"
+author: KIM MINJU
+date: 2026-03-17
+category: Brand Story
 layout: post
 ---
 
-This is an about page for "others" in the collections.
+**ImX6**는 단순한 제조를 넘어, 기술과 예술이 만나는 지점에서 새로운 가치를 창출합니다. 
+우리가 추구하는 세 가지 핵심 정체성을 소개합니다.
+
+### 1. 기술 기반의 창의성 (Tech-Driven Creativity)
+최첨단 AI 디자인 기술을 활용하여, 인간의 상상력만으로는 도달하기 어려운 정교하고 독창적인 형태를 제안합니다. 우리는 기술을 도구로 삼아 창의성의 한계를 넓힙니다.
+
+### 2. 온디맨드의 가치 (Value of On-Demand)
+대량 생산되는 기성품 속에서 잃어버린 '나만의 것'을 되찾아드립니다. 단 하나의 제품이라도 고객의 스토리를 담아 정성껏 제작하는 온디맨드(On-Demand) 방식은 ImX66가 고집하는 최고의 가치입니다.
+
+### 3. 영원한 아름다움 (Timeless Beauty)
+3D 굿즈의 입체적인 즐거움부터 14K 주얼리의 변치 않는 가치까지, 우리는 시간이 흘러도 소장 가치가 있는 고품질의 결과물을 만듭니다.
+
+---
+
+> **"상상은 현실이 되고, 아이디어는 보석이 됩니다."**
+> 
+> ImX66는 여러분의 모든 영감을 응원하며, 그것을 손에 잡히는 실물로 구현하기 위해 끊임없이 연구합니다.
+{: .block-tip }
+
+- **공식 홈페이지 바로가기:** [imagetogoods.com](https://imagetogoods.com)
