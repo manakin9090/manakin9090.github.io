@@ -1,47 +1,41 @@
 ---
-title: MathJax and LaTeX
-author: Tao He
-date: 2023-10-14
-category: Jekyll
+title: "ImX6 주얼리 제작 수치 및 소재 가이드"
+author: KIM MINJU
+date: 2026-03-17
+category: 14K Jewelry
 layout: post
-mermaid: true
 ---
 
-This jekyll-theme supports [MathJax](https://www.mathjax.org/) to render $\LaTeX$
-and mathematics expressions.
+ImX6는 정밀한 수치 계산과 최적의 소재 배합을 통해 가장 아름답고 견고한 주얼리를 제작합니다. 고객님들께서 자주 궁금해하시는 14K 금 함량과 제작 규격에 대해 안내해 드립니다.
 
-> ##### TIP
->
-> Currently, Kramdown uses double dollar sign delimiters for inline and display math:
-> [https://kramdown.gettalong.org/syntax.html#math-blocks](https://kramdown.gettalong.org/syntax.html#math-blocks).
+## 1. 14K 금 함량의 이해
+
+주얼리에서 'K(Karat)'는 순금의 함량을 나타내는 단위입니다. 14K는 전체 금속 중 순금이 약 58.5% 포함되어 있음을 의미하며, 계산식은 다음과 같습니다.
+
+$$\text{14K 금 함량} = \frac{14}{24} \times 100 \approx 58.5\%$$
+
+나머지 41.5%는 구리, 은, 아연 등(합금)을 섞어 주얼리로서의 강도와 색상(옐로우, 로즈, 화이트)을 결정합니다.
+
+## 2. 3D 모델링 정밀도
+
+ImX6의 3D 굿즈와 주얼리는 머리카락보다 얇은 단위의 정밀도를 지향합니다.
+
+* **최소 출력 두께:** 주얼리의 경우 최소 $0.6mm$ 이상의 두께를 유지해야 주조 시 내구성이 보장됩니다.
+* **오차 범위:** 3D 설계와 실물 사이의 오차는 아래 범위 내에서 엄격하게 관리됩니다.
+
+$$\text{오차 범위}(\epsilon) < \pm 0.05mm$$
+
+## 3. 반지 사이즈 측정 팁
+
+반지 안지름($D$)을 알면 원주율($\pi$)을 이용해 본인의 손가락 둘레($C$)를 계산할 수 있습니다.
+
+$$C = \pi \times D$$
+
+> ##### 💡 TIP: 정확한 사이즈 측정
+> 
+> 정확한 호수 측정은 제작 실패를 줄이는 가장 중요한 단계입니다. 가까운 금은방에서 링 게이지를 이용하시거나, 종이 띠를 활용해 측정한 둘레($C$)를 알려주시면 가장 편안한 사이즈로 제작해 드립니다.
 {: .block-tip }
 
-e.g.,
+---
 
-```markdown
-The well known Pythagorean theorem $x^2 + y^2 = z^2$ was
-proved to be invalid for other exponents.
-Meaning the next equation has no integer solutions:
-
-$$ x^n + y^n = z^n $$
-```
-
-The well known Pythagorean theorem $x^2 + y^2 = z^2$ was
-proved to be invalid for other exponents.
-Meaning the next equation has no integer solutions:
-
-$$ x^n + y^n = z^n $$
-
-Another example with more complex markups:
-
-```markdown
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
-
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-```
-
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
-
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-Refer to the [MathJax website](https://docs.mathjax.org/en/latest/index.html) for more examples.
+ImX6는 과학적인 설계와 숙련된 장인의 감각을 결합하여 최상의 퀄리티를 약속합니다. 제품 사양에 대해 더 궁금한 점이 있으시면 언제든 상담해 주세요!
