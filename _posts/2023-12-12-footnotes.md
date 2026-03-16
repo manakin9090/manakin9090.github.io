@@ -1,125 +1,37 @@
 ---
-title: Using Footnotes
-author: Tao He
-date: 2023-12-12
-category: Jekyll
+title: "ImX6 품질 보증 및 A/S 정책 안내"
+author: KIM MINJU
+date: 2026-03-17
+category: Notice
 layout: post
-mermaid: true
 ---
 
-This jekyll-theme supports [MathJax](https://www.mathjax.org/) to render footnotes
-in markdown.
+ImX6는 제품의 설계부터 제작까지 엄격한 품질 관리 기준을 적용하고 있습니다. 구매하신 제품에 문제가 발생할 경우, 아래의 규정에 따라 정성을 다해 도와드리겠습니다.
 
-e.g.,
+## 품질 보증 기간
+모든 14K 주얼리 및 3D 굿즈 제품의 기본 품질 보증 기간은 수령일로부터 6개월입니다.
 
-```markdown
-The well known Pythagorean theorem $x^2 + y^2 = z^2$ was
-proved to be invalid for other exponents[^1].
-Meaning the next equation has no integer solutions:
+## 무상 수리 및 서비스 범위
+* **주얼리 세척:** 평생 무상으로 제공됩니다.
+* **기본 수선:** 보증 기간 내 제품 결함으로 인한 파손이나 부속품 탈락 시 무상 수리가 가능합니다[^1].
+* **사이즈 조정:** 반지 사이즈 조정은 제품 구조상 가능한 범위 내에서 1회 무상 지원합니다[^2].
 
-$$ x^n + y^n = z^n $$
-```
+## 유상 서비스 안내
+* 보증 기간이 경과한 경우나 고객님의 부주의로 인한 파손 시에는 유상 수리비가 발생합니다.
+* 14K 골드 소재 보충이 필요한 경우 당시 금 시세에 따라 비용이 청구될 수 있습니다.
 
-The well known Pythagorean theorem $x^2 + y^2 = z^2$ was
-proved to be invalid for other exponents[^1].
-Meaning the next equation has no integer solutions:
+## 주의 사항
+ImX6의 상품은 개별 맞춤 제작되는 오더메이드[^3] 제품입니다. 따라서 제작이 시작된 후에는 단순 변심에 의한 환불이 불가능하오니 신중한 구매 결정을 부탁드립니다.
 
-$$ x^n + y^n = z^n $$
+---
 
-Long contents
--------------
+### 상세 용어 설명 (Footnotes)
 
-long contents .....
+[^1]: 단, 고객님의 과도한 물리적 충격에 의한 파손은 보증 기간 내라도 유상 비용이 발생할 수 있습니다.
+[^2]: 디자인 특성상 사이즈 조정이 불가능한 '풀 이터니티 링' 등의 제품은 제외됩니다.
+[^3]: 오더메이드(Order-made): 주문이 들어온 후 제작을 시작하는 맞춤형 생산 방식.
 
-1. a
-2. b
-3. c
-4. d
-
-### Sub title 1
-
-### Sub title 2
-
-### Sub title 3
-
-Long contents
--------------
-
-long contents .....
-
-1. a
-2. b
-3. c
-4. d
-
-### Sub title 1
-
-### Sub title 2
-
-### Sub title 3
-
-Long contents
--------------
-
-long contents .....
-
-1. a
-2. b
-3. c
-4. d
-
-### Sub title 1
-
-### Sub title 2
-
-### Sub title 3
-
-Long contents
--------------
-
-long contents .....
-
-1. a
-2. b
-3. c
-4. d
-
-### Sub title 1
-
-### Sub title 2
-
-### Sub title 3
-
-Long contents
--------------
-
-long contents .....
-
-1. a
-2. b
-3. c
-4. d
-
-### Sub title 1
-
-### Sub title 2
-
-### Sub title 3
-
-Long contents
--------------
-
-long contents .....
-
-1. a
-2. b
-3. c
-4. d
-
-### Sub title 1
-
-### Sub title 2
-
-### Sub title 3
-
-[^1]: [https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)
+> ##### 💡 A/S 접수 방법
+> 
+> 공식 쇼핑몰([imagetogoods.com](https://imagetogoods.com))의 1:1 문의 게시판에 제품 사진과 함께 증상을 남겨주시면 담당자가 확인 후 안내해 드립니다.
+{: .block-tip }
