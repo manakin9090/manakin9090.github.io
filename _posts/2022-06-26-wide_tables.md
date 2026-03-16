@@ -1,36 +1,18 @@
 ---
-title: Wide tables
-author: Tao He
-date: 2022-06-26
-category: Jekyll
+title: "ImX6 맞춤 제작 옵션 및 안내 (Pricing & Options)"
+author: KIM MINJU
+date: 2026-03-17
+category: Notice
 layout: post
 ---
 
-A wide tables needs to be wrapped into a `div` with class `table-wrapper`
-to make sure it displayed as expected on mobile devices. For example,
-
-```markdown
-<div class="table-wrapper" markdown="block">
-
-|title1|title2|title3|title4|title5|title6|title7|title8|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-
-</div>
-```
-
-Will be rendered as
+ImX6에서 제공하는 AI 기반 온디맨드 3D 굿즈 및 14K 주얼리의 기본 제작 옵션과 예상 소요 기간을 안내해 드립니다. 
+모든 제품은 고객님의 디자인과 요구사항에 따라 1:1 맞춤 제작되므로, 아래 표는 참고용으로 확인해 주시기 바랍니다.
 
 <div class="table-wrapper" markdown="block">
 
-|title1|title2|title3|title4|title5|title6|title7|title8|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-
-</div>
+| 카테고리 | 주요 소재 | 특징 및 장점 | 마스코트 임미 추천 | 예상 제작 기간 | 기본 단가(예시) | 비고 |
+|:---:|:---:|:---|:---:|:---:|:---:|:---|
+| **3D 피규어** | 고급 레진 (Resin) | 머리카락, 옷깃 등 정교한 디테일 표현 및 풀컬러 채색 가능 | ⭐⭐⭐ | 3 ~ 5일 | 30,000원 ~ | 크기 및 복잡도에 따라 상이 |
+| **커스텀 키링** | PLA / 레진 | 가볍고 튼튼하며 가방이나 에어팟 케이스에 달기 좋음 | ⭐⭐⭐⭐ | 2 ~ 4일 | 15,000원 ~ | 대량 주문 시 할인 적용 |
+| **14K 주얼리** | 14K 골드 (옐로우/로즈/화이트) | 알레르기 걱정 없이 매일 착용 가능한 변치 않는 가치 | ⭐⭐⭐⭐⭐ | 7 ~ 10일 | 150,000원 ~
