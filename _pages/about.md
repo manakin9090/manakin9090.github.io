@@ -1,9 +1,19 @@
 ---
-title: About
-author: Tao He
-date: 2022-02-04
-category: Jekyll
+title: 브랜드 소개 (About)
+author: KIM MINJU
+date: 2026-03-17
+category: Notice
 layout: post
 ---
 
-This is an about page.
+안녕하세요! 상상을 현실로 만드는 온디맨드(On-demand) 제작 플랫폼, **ImX6**입니다.
+
+### 🌟 우리의 비전
+ImX6는 누구나 마음속에 품고 있는 아이디어를 세상에 단 하나뿐인 실물로 구현합니다. 첨단 AI 기술을 바탕으로 한 입체적인 **3D 굿즈**부터, 변치 않는 아름다움을 간직한 **14K 주얼리**까지 정교하고 퀄리티 높은 결과물을 선보입니다.
+
+### 🐾 마스코트 '임미(Immi)'
+ImX6의 여정에는 항상 공식 마스코트 **'임미'**가 함께합니다! 앞으로 블로그를 통해 임미의 탄생 비하인드 스토리와 다채로운 활약상도 차곡차곡 기록해 나갈 예정입니다.
+
+머릿속에만 있던 특별한 디자인이 내 손안의 굿즈와 주얼리로 탄생하는 마법 같은 경험, ImX6와 함께 시작해 보세요!
+
+- **공식 홈페이지:** [imagetogoods.com](https://imagetogoods.com)
