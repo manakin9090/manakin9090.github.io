@@ -4,7 +4,9 @@ author: KIM MINJU
 date: 2026-03-17
 category: Brand Story
 layout: post
+cover: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
 ---
+
 
 안녕하세요! 상상을 현실로 만드는 온디맨드(On-demand) 제작 플랫폼, **ImX6**입니다.
 
