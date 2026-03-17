@@ -1,7 +1,7 @@
 ---
 title: "주얼리 소재 및 수치"
 author: KIM MINJU
-date: 2026-03-17
+date: 2026-03-07
 category: Guide
 layout: post
 ---
