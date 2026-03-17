@@ -1,7 +1,7 @@
 ---
 title: "주문·제작 프로세스"
 author: KIM MINJU
-date: 2026-03-17
+date: 2026-03-04
 category: Guide
 layout: post
 mermaid: true
