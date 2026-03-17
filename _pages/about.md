@@ -4,7 +4,6 @@ author: KIM MINJU
 date: 2026-03-17
 category: Brand Story
 layout: post
-cover: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop"
 ---
 
 
