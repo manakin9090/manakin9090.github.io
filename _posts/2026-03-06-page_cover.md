@@ -1,7 +1,7 @@
 ---
 title: "제작 가이드"
 author: KIM MINJU
-date: 2026-03-17
+date: 2026-03-06
 category: Guide
 layout: post
 ---
