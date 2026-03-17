@@ -7,9 +7,8 @@ url: "https://blog.imagetogoods.com"
 baseurl: ""
 
 # 🌐 소셜 미디어 및 외부 링크 설정
-# 트위터 등 SNS는 브랜드명(imagetogoods)으로 연결
+facebook_username: "imagetogoods"
 twitter_username: "imagetogoods"
-# 깃허브는 실제 저장소 소유자명(manakin9090)으로 연결
 github_username: "manakin9090"
 
 # 상단 우측 깃허브 아이콘 연결 (실제 깃허브 저장소 주소)
