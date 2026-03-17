@@ -1,5 +1,5 @@
 ---
-title: "imagetogoods.com "
+title: "공식 쇼핑몰 "
 author: KIM MINJU
 date: 2026-03-17
 category: Brand Story
