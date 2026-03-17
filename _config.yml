@@ -13,7 +13,11 @@ plugins:
   - jekyll-toc
   - jekyll-seo-tag
 
-# 사이드바 메뉴 순서 설정 (이 부분이 있어야 글이 보입니다)
+# 시간 및 발행 설정 (날짜 오류 방지)
+timezone: "Asia/Seoul"
+future: true
+
+# 사이드바 메뉴 순서 설정
 ordered_collections:
   - posts
 
@@ -22,9 +26,6 @@ toc:
   enabled: true
   h_min: 1
   h_max: 3
-
-# 카테고리 정의 (아까 포스팅에 적은 이름들과 똑같아야 합니다)
-categories: [Brand Story, 3D Goods, 14K Jewelry, Notice]
 
 # Markdown 및 하이라이트 설정
 kramdown:
