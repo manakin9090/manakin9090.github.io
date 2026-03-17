@@ -1,5 +1,5 @@
 ---
-title: "ImX6의 철학과 비전 (Vision)"
+title: "철학과 비전"
 author: KIM MINJU
 date: 2026-03-17
 category: Brand Story
