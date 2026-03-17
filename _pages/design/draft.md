@@ -1,5 +1,5 @@
 ---
-title: "ImX6 디자인 시안 및 커스텀 프로세스"
+title: "디자인 시안 및 커스텀 프로세스"
 author: KIM MINJU
 date: 2026-03-17
 category: "3D Goods"
