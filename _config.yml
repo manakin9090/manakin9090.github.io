@@ -17,17 +17,39 @@ plugins:
 timezone: "Asia/Seoul"
 future: true
 
-# 사이드바 메뉴 순서 설정
+# 📂 컬렉션 설정 (중요: _pages, _others 폴더 내 마크다운 파일 렌더링)
+collections:
+  pages:
+    output: true
+  others:
+    output: true
+
+# 🗂️ 사이드바 메뉴 및 컬렉션 순서 설정
 ordered_collections:
+  - pages
+  - others
   - posts
 
-# 목차 설정
+# 🏷️ 기본 카테고리 지정 (선택 사항: 매번 안 적어도 자동 적용되게 설정)
+defaults:
+  - scope:
+      path: "_others"
+      type: "others"
+    values:
+      category: "Brand Story"
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      category: "Notice"
+
+# 📖 목차 (TOC) 설정
 toc:
   enabled: true
   h_min: 1
   h_max: 3
 
-# Markdown 및 하이라이트 설정
+# 📝 Markdown 및 문법 하이라이트 설정
 kramdown:
   input: GFM
   syntax_highlighter: rouge
