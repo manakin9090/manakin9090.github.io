@@ -1,5 +1,5 @@
 ---
-title: ImX6 브랜드 소개
+title: 브랜드 소개
 author: KIM MINJU
 date: 2026-03-17
 category: Brand Story
