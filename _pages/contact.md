@@ -2,7 +2,7 @@
 title: 문의하기 (Contact)
 author: KIM MINJU
 date: 2026-03-17
-category: Notice
+category: CS & Policy
 layout: post
 ---
 
