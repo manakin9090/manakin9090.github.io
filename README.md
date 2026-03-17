@@ -8,7 +8,7 @@ permalink: /
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; width: 90%;">
     <h1 style="color: white; margin: 0; font-size: 2.2em; font-weight: bold; text-shadow: 2px 2px 5px rgba(0,0,0,0.7);">Welcome to ImX6!</h1>
-    <p style="color: #eeeeee; margin-top: 10px; font-size: 1.1em; text-shadow: 1px 1px 3px rgba(0,0,0,0.7);">AI 기반 3D 굿즈 & 14K 주얼리 공식 블로그</p>
+    <p style="color: #eeeeee; margin-top: 10px; font-size: 1.1em; text-shadow: 1px 1px 3px rgba(0,0,0,0.7);">AI 기반 3D 굿즈 & 주얼리 제작 플랫 공식 블로그</p>
   </div>
 </div>
 
