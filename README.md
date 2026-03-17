@@ -4,7 +4,8 @@ title: ImX6 공식 블로그
 permalink: /
 ---
 
-<div style="position: relative; width: 100%; height: 350px; background-image: url('/assets/images/hero-banner.jpg'); background-size: cover; background-position: center; border-radius: 12px; overflow: hidden; margin-bottom: 2rem;">
+<div style="position: relative; width: 100%; height: 350px; background-image: url('/assets/assets/images
+/hero-banner.jpg'); background-size: cover; background-position: center; border-radius: 12px; overflow: hidden; margin-bottom: 2rem;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5);"></div>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; width: 90%;">
     <h1 style="color: white; margin: 0; font-size: 2.2em; font-weight: bold; text-shadow: 2px 2px 5px rgba(0,0,0,0.7);">Welcome to ImX6!</h1>
