@@ -1,7 +1,7 @@
 ---
 title: "취급 및 주문 유의사항"
 author: KIM MINJU
-date: 2026-03-17
+date: 2026-03-08
 category: CS & Policy
 layout: post
 ---
