@@ -1,7 +1,7 @@
 ---
 title: "품질 보증 및 A/S"
 author: KIM MINJU
-date: 2026-03-17
+date: 2026-03-09
 category: CS & Policy
 layout: post
 ---
